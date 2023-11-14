@@ -1,0 +1,12 @@
+names:
+- person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: humanfinder-8wu97
+  url: https://universe.roboflow.com/zerru/humanfinder-8wu97/dataset/1
+  version: 1
+  workspace: zerru
+test: /dataset/test/images
+train: /dataset/train/images
+val: /dataset/valid/images
